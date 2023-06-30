@@ -1,4 +1,4 @@
-# filterable-products-react-tutorial
+# Filterable Products React Tutorial
 
 A simple Filterable Products table featuring:
 
