@@ -1,6 +1,6 @@
-# products-react-tutorial
+# filterable-products-react-tutorial
 
-A simple Filterable Product table.
+A simple Filterable Products table featuring:
 
 1. User can filter the Product table by entering a substring of a category in the Search input box.
 2. User can filter the Product table by using the checkbox to display stocked and unstocked products.
@@ -12,7 +12,7 @@ To view the step by step tutorial, checkout: [Thinking in React](https://react.d
 You can clone the repository and:
 
 ```
-cd products-react-tutorial
+cd filterable-products-table-react-tutorial
 ```
 
 ### To Run Server
